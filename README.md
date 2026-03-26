@@ -107,6 +107,6 @@ text
 
 ---
 
-**Done. Your README will now look professional.** Need anything else?
+
 
 
